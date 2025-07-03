@@ -85,18 +85,19 @@ I'm a **Backend Developer** with expertise in **C#**, **.NET**, and **SQL databa
  
 ## 📚 Education & Certifications
  
-- **BCA** | Tribhuvan University (Hetauda City College) _(2018 - 2023)_
-- **ASP.NET Core Training** | Broadway Infosys _(2022, 113 Hrs)_
-- **Web Page Designing** | NIIT Birgunj _(2016, 3 Months)_
+- **Electronics And Communication Engineering** | NIT Kurukshetra
+- **MBA** | Himalayan Collage of management
+- **Az-204** | Developing Solutions for Microsoft Azure 
+- **Ms-600** | Building Applications and Solutions with Microsoft 365 Core Services
  
 ---
  
 ## 📫 Connect with Me
  
-- **Email:** dev.gyanendrapc@gmail.com
-- **LinkedIn:** [Gyanendra Chaudhary](https://linkedin.com/in/Nischit-Gautam)
-- **Phone:** +977 9864374699
-- **Location:** Kirtipur, Kathmandu, Nepal
+- **Email:** nischit07@gmail.com
+- **LinkedIn:** [Nischit Gautam](https://www.linkedin.com/in/nischit-gautam-2130b2193)
+- **Phone:** +977 9861925840
+- **Location:** Kapan, Kathmandu, Nepal
  
 ---
  
@@ -127,8 +128,8 @@ I'm a **Backend Developer** with expertise in **C#**, **.NET**, and **SQL databa
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nischit-Gautam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischit-Gautam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
  
 <p align="center">
@@ -142,12 +143,12 @@ I'm a **Backend Developer** with expertise in **C#**, **.NET**, and **SQL databa
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nischit-Gautam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischit-Gautam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyanendra-chaudhary&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nischit-Gautam&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
  
@@ -155,12 +156,12 @@ I'm a **Backend Developer** with expertise in **C#**, **.NET**, and **SQL databa
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nischit-Gautam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischit-Gautam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
  
 <p align="center">
-  📊 <a href="https://github.com/gyanendra-chaudhary">Visit my GitHub profile to see detailed contribution activity</a>
+  📊 <a href="https://github.com/Nischit-Gautam">Visit my GitHub profile to see detailed contribution activity</a>
 </p>
 
  
@@ -168,11 +169,11 @@ I'm a **Backend Developer** with expertise in **C#**, **.NET**, and **SQL databa
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanendra-chaudhary&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra-chaudhary&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nischit-Gautam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischit-Gautam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=gyanendra-chaudhary&theme=radical" alt="Commits Per Day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=Nischit-Gautam&theme=radical" alt="Commits Per Day" />
 </p>
  
