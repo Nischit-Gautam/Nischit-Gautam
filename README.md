@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nischit Gautam</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Backend Developer</h3><p align="center">
+<img src="https://komarev.com/ghpvc/?username=gyanendra-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
  
 ---
  
 ## 🌟 About Me
  
 I'm a **Backend Developer** with expertise in **C#**, **.NET**, and **SQL databases**, **Azure** passionate about building scalable and efficient software solutions. Currently working at **Avishkaram Technologies** leveraging **Microsoft Graph API** with .NET and optimizing application for performance.
- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=gyanendra-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+ 
 ---
  
 ## 🛠️ Skills
