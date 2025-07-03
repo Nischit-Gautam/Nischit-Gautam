@@ -3,11 +3,12 @@
 <h2 align="center">👨‍💻 About Me</h2>
  
 <p align="center">
-I'm a passionate developer who loves turning ideas into reality through code.<br>
-With expertise in multiple programming languages and frameworks, I enjoy solving complex problems<br>
-and building efficient, scalable solutions. When I'm not coding, you can find me<br>
-exploring new technologies, contributing to open-source projects, or mentoring fellow developers.
+I'm a Senior Software Developer at Avishkaram Technologies with over 5 years of experience designing scalable solutions and leading projects from concept to deployment.<br>
+My core expertise lies in building robust backend systems using C# and .NET, developing intelligent bots with Microsoft Bot Framework, and working extensively across the Microsoft 365 and Azure ecosystems.<br>
+I've built and integrated AI-powered RAG applications, worked with Microsoft Copilot, and developed cloud-native solutions using services like Azure Functions, Key Vault, Blob Storage, and Graph API.<br>
+Outside of coding, I enjoy exploring new tech, designing IoT integrations, and automating workflows with Power Platform and Python.
 </p>
+
  
 <div align="center">
 <a href="https://github.com/Nischit-Gautam">
