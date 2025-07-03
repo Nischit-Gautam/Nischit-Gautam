@@ -98,7 +98,6 @@ I'm a **Backend Developer** with expertise in **C#**, **.NET**, and **SQL databa
  
 - **Email:** nischit07@gmail.com
 - **LinkedIn:** [Nischit Gautam](https://www.linkedin.com/in/nischit-gautam-2130b2193)
-- **Phone:** +977 9861925840
 - **Location:** Kapan, Kathmandu, Nepal
  
 ---
