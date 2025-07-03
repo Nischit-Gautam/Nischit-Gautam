@@ -20,7 +20,7 @@ exploring new technologies, contributing to open-source projects, or mentoring f
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nischit-Gautam&theme=radical" alt="GitHub Profile Summary" />
 </div>
  
-<h2 align="center">🛠️Dot Net, SQL, Azure</h2>
+<h2 align="center">🛠️My Tech Stack</h2>
  
 <div align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischit-Gautam&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
