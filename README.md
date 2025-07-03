@@ -36,7 +36,7 @@ exploring new technologies, contributing to open-source projects, or mentoring f
 <h2 align="center">📫 How to reach me</h2>
  
 <p align="center">
-<a href="https://github.com/Nischit-Gautam/Nischit-Gautam.git">
+<a href="https://www.linkedin.com/in/nischit-gautam-2130b2193">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
